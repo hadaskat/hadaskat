@@ -1,15 +1,13 @@
 # Hi there, I'm Dasi Leibovitz 👋
 
-**Backend Developer** specializing in Java, Spring Boot, Microservices, and High-Scale Systems.
+**Backend Developer** 
+Java | Spring Boot | Microservices | Oracle | Kafka | MQ | REST APIs 
 
 ---
 
 ### 🚀 About Me
 
-- 💻 Backend Developer with **3+ years of experience** building high-scale financial document distribution systems[cite: 1].
-- ⚡ Proven impact boosting distribution throughput to **10,000+ letters per minute** and routing **1,000,000+ letters per distribution**[cite: 1].
-- 🛠️ Experienced in migrating low-code legacy processes to standalone Java microservices[cite: 1].
-- 🤖 Integrating AI tools (**Claude Code, GitHub Copilot**) into daily development and production investigation workflows[cite: 1].
+I'm a Backend Developer with 3+ years of experience building Java Spring Boot microservices for high-scale financial document distribution systems. Strong in Oracle, Kafka, MQ, and REST APIs, with proven impact boosting distribution throughput to 10,000+ letters per minute. 
 
 ---
 
@@ -63,4 +61,4 @@
 
 - **Email:** [Dasikatz18@gmail.com](mailto:Dasikatz18@gmail.com)[cite: 1]
 - **Phone:** 052-768-0564[cite: 1]
-- **LinkedIn:** [[Your LinkedIn Profile URL](https://www.linkedin.com/in/dasi-leibovitz/)]
+- **LinkedIn:** [[LinkedIn Profile](https://www.linkedin.com/in/dasi-leibovitz/)]
