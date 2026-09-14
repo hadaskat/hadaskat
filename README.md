@@ -66,18 +66,6 @@ I'm a Backend Developer with 3+ years of experience building Java Spring Boot mi
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hadaskat&show_icons=true&theme=radial" alt="Dasi's github stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadaskat&layout=compact&theme=radial" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/dasi-leibovitz/)
