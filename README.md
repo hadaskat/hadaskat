@@ -39,9 +39,9 @@ I'm a Backend Developer with 3+ years of experience building Java Spring Boot mi
 
 ### 💻 Key Projects
 
-**[Event Equipment Rental Platform](https://github.com/hadaskat)**[cite: 1]
-- Full-stack rental web application (Customer & Admin sides) built with **React**, **Java Spring Boot**, and **H2**[cite: 1].
-- Designed with a strict four-layer architecture, supporting cart management, item categories, availability tracking, and admin product management[cite: 1].
+**[Event Equipment Rental Platform](https://github.com/hadaskat)**
+- Built a full rental website with customer and admin sides using React, Java Spring Boot, and H2. 
+- Implemented cart, categories, availability, and admin product management in a four-layer architecture.
 
 ---
 
@@ -59,6 +59,6 @@ I'm a Backend Developer with 3+ years of experience building Java Spring Boot mi
 
 ### 📫 Let's Connect
 
-- **Email:** [Dasikatz18@gmail.com](mailto:Dasikatz18@gmail.com)[cite: 1]
-- **Phone:** 052-768-0564[cite: 1]
+- **Email:** [Dasikatz18@gmail.com](mailto:Dasikatz18@gmail.com)
+- **Phone:** 052-768-0564
 - **LinkedIn:** [[LinkedIn Profile](https://www.linkedin.com/in/dasi-leibovitz/)]
