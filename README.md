@@ -60,7 +60,7 @@ I'm a Backend Developer with 3+ years of experience building Java Spring Boot mi
 
 ### 💻 Key Projects
 
-**[Event Equipment Rental Platform](https://github.com/hadaskat)**
+**[Event Equipment Rental Platform](https://github.com/hadaskat/myFullstackProject)**
 - Built a full rental website with customer and admin sides using React, Java Spring Boot, and H2. 
 - Implemented cart, categories, availability, and admin product management in a four-layer architecture.
 
